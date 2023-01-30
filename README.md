@@ -1,4 +1,4 @@
-# Projexct Title
+# Project Title
 One Paragraph of the project description
 You can find more information by visiting the [CodeSpace](https://github.com/cod3spac3Academy) repository
 ## Getting Started
