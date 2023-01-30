@@ -1,5 +1,5 @@
 # TODO List
-This is the checlist of tasks to make a good readme:
+This is the checklist of tasks to make a good readme:
 ## Making a good readme
 - [ ] Project Title 
 - [ ] Description
